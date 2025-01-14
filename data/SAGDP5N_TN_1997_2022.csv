@@ -1,0 +1,97 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022
+ "47000","Tennessee",5,SAGDP5N,1,"...","All industry total ","Thousands of dollars",-382112,-421033,-514838,-576203,-712371,-537002,-613069,-563241,-940614,-732397,-728695,-666241,-862348,-756080,-898511,-847399,-811194,-760119,-677057,-741914,-781291,-756026,-962809,-15313036,-9544055,-1706421
+ "47000","Tennessee",5,SAGDP5N,2,"..."," Private industries ","Thousands of dollars",-254840,-321683,-412279,-467038,-593671,-395963,-466043,-410431,-776985,-581705,-550526,-471129,-607734,-495158,-607042,-606041,-547995,-496927,-426479,-484257,-526061,-498622,-696493,-14867906,-8999581,-1052325
+ "47000","Tennessee",5,SAGDP5N,3,"11","  Agriculture, forestry, fishing and hunting ","Thousands of dollars",-64629,-113031,-196196,-258551,-283065,-173680,-164211,-136006,-436708,-278740,-273673,-189331,-222466,-130103,-118770,-145148,-119795,-100625,-54295,-98735,-131570,-126534,-308257,-565234,-313670,-96212
+ "47000","Tennessee",5,SAGDP5N,4,"111-112","   Farms ","Thousands of dollars",-64629,-113031,-196196,-258551,-283065,-173680,-164211,-136006,-436708,-278740,-273673,-189331,-222466,-130103,-118770,-145148,-119795,-100625,-54295,-98735,-131570,-126534,-308257,-536104,-292368,-96195
+ "47000","Tennessee",5,SAGDP5N,5,"113-115","   Forestry, fishing, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29130,-21302,-17
+ "47000","Tennessee",5,SAGDP5N,6,"21","  Mining, quarrying, and oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-85593,-19497,-38
+ "47000","Tennessee",5,SAGDP5N,7,"211","   Oil and gas extraction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1180,-2051,0
+ "47000","Tennessee",5,SAGDP5N,8,"212","   Mining (except oil and gas) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-82277,-16323,-33
+ "47000","Tennessee",5,SAGDP5N,9,"213","   Support activities for mining ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2136,-1123,-5
+ "47000","Tennessee",5,SAGDP5N,10,"22","  Utilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-26502,-14330,0
+ "47000","Tennessee",5,SAGDP5N,11,"23","  Construction ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1741902,-834396,-1291
+ "47000","Tennessee",5,SAGDP5N,12,"31-33","  Manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-350,-150,-6431,-19714,-48414,-67491,-62372,-27676,-22178,-21332,-19294,-18993,-16019,-16773,-1409971,-766069,-22814
+ "47000","Tennessee",5,SAGDP5N,13,"321,327-339","   Durable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-6269,-19227,-47498,-64862,-60271,-26296,-19775,-20228,-18179,-17937,-15007,-15888,-974778,-537598,-21768
+ "47000","Tennessee",5,SAGDP5N,14,"321","    Wood product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-67048,-32555,-30
+ "47000","Tennessee",5,SAGDP5N,15,"327","    Nonmetallic mineral product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-51467,-9246,0
+ "47000","Tennessee",5,SAGDP5N,16,"331","    Primary metal manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-37432,-27245,0
+ "47000","Tennessee",5,SAGDP5N,17,"332","    Fabricated metal product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-252809,-154373,-117
+ "47000","Tennessee",5,SAGDP5N,18,"333","    Machinery manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-194369,-84710,-44
+ "47000","Tennessee",5,SAGDP5N,19,"334","    Computer and electronic product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-65272,-25116,-4
+ "47000","Tennessee",5,SAGDP5N,20,"335","    Electrical equipment, appliance, and component manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,-6269,-19227,-47498,-64862,-60271,-26296,-19775,-20228,-18179,-17937,-15007,-15888,-54095,-30723,-21413
+ "47000","Tennessee",5,SAGDP5N,21,"3361-3363","    Motor vehicles, bodies and trailers, and parts manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-46624,-42227,-74
+ "47000","Tennessee",5,SAGDP5N,22,"3364-3466,3369","    Other transportation equipment manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-22812,-14606,0
+ "47000","Tennessee",5,SAGDP5N,23,"337","    Furniture and related product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-54521,-29025,-20
+ "47000","Tennessee",5,SAGDP5N,24,"339","    Miscellaneous manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-128331,-87771,-66
+ "47000","Tennessee",5,SAGDP5N,25,"311-316,322-326","   Nondurable goods manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-350,-150,-162,-487,-916,-2629,-2101,-1379,-2403,-1105,-1115,-1056,-1012,-884,-435192,-228471,-1046
+ "47000","Tennessee",5,SAGDP5N,26,"311-312","    Food and beverage and tobacco product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-90749,-53140,-39
+ "47000","Tennessee",5,SAGDP5N,27,"313-314","    Textile mills and textile product mills ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-350,-150,-162,-168,-119,-110,-113,-150,-142,-817,-850,-787,-767,-734,-39363,-11399,-463
+ "47000","Tennessee",5,SAGDP5N,28,"315-316","    Apparel, leather, and allied product manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-11624,-18465,-22
+ "47000","Tennessee",5,SAGDP5N,29,"322","    Paper manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-50450,-7479,0
+ "47000","Tennessee",5,SAGDP5N,30,"323","    Printing and related support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-81607,-61916,-25
+ "47000","Tennessee",5,SAGDP5N,31,"324","    Petroleum and coal products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-104,-529,-160,-1147,-203,-1387,0,0,0,0,0,-15897,-1696,0
+ "47000","Tennessee",5,SAGDP5N,32,"325","    Chemical manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-216,-269,-2358,-842,-1026,-874,-288,-265,-269,-244,-150,-70238,-41583,-465
+ "47000","Tennessee",5,SAGDP5N,33,"326","    Plastics and rubber products manufacturing ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-75265,-32793,-32
+ "47000","Tennessee",5,SAGDP5N,34,"42","  Wholesale trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-564519,-216363,-330
+ "47000","Tennessee",5,SAGDP5N,35,"44-45","  Retail trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-61452,-6817,-67,0,0,0,0,0,0,0,0,-1122660,-509039,-1930
+ "47000","Tennessee",5,SAGDP5N,36,"48-49","  Transportation and warehousing ","Thousands of dollars",-2373,-1401,-1302,-1662,-109900,-11780,-60024,-19358,-13339,-18905,-12300,-10870,-16144,-12316,-13783,-23705,-11939,-9247,-8893,-8570,-6375,-6087,-5337,-724315,-502982,-15086
+ "47000","Tennessee",5,SAGDP5N,37,"481","   Air transportation ","Thousands of dollars",-420,21,0,-21,-105569,-3359,-52805,-357,-1281,-1953,-1974,-2960,-3590,-4304,-4955,-5438,-4913,-4598,-5039,-1591,-1882,-1826,-2307,-289607,-289463,-6041
+ "47000","Tennessee",5,SAGDP5N,38,"482","   Rail transportation ","Thousands of dollars",-1123,-896,-1034,-1197,-1217,-1297,-1355,-1644,-1701,-1564,-1534,-1927,-2462,-3418,-2633,-2689,-2779,-2571,-2695,-2818,-3247,-3616,-2571,-11578,-11915,-7012
+ "47000","Tennessee",5,SAGDP5N,39,"483","   Water transportation ","Thousands of dollars",-830,-526,-269,-443,-3115,-7124,-5747,-16572,-9605,-13397,-8294,-5469,-9881,-4593,-6195,-15578,-4247,-2077,-1159,-4161,-1246,-645,-459,-3855,-12238,-250
+ "47000","Tennessee",5,SAGDP5N,40,"484","   Truck transportation ","Thousands of dollars",0,0,0,0,0,0,-118,-785,-752,-1992,-497,-513,-211,0,0,0,0,0,0,0,0,0,0,-256257,-96489,-905
+ "47000","Tennessee",5,SAGDP5N,41,"485","   Transit and ground passenger transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-28845,-40647,-222
+ "47000","Tennessee",5,SAGDP5N,42,"486","   Pipeline transportation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-29,-72,0
+ "47000","Tennessee",5,SAGDP5N,43,"487-488,492","   Other transportation and support activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-93128,-42629,-624
+ "47000","Tennessee",5,SAGDP5N,44,"493","   Warehousing and storage ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-41017,-9529,-31
+ "47000","Tennessee",5,SAGDP5N,45,"51","  Information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-504,-1395,-6133,-8727,-4597,-1133,-1151,60,-133,-68,-67,-189041,-124750,-15422
+ "47000","Tennessee",5,SAGDP5N,46,"511","   Publishing industries (except Internet) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-69139,-27548,-41
+ "47000","Tennessee",5,SAGDP5N,47,"512","   Motion picture and sound recording industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-39081,-69444,-15332
+ "47000","Tennessee",5,SAGDP5N,48,"515,517","   Broadcasting (except Internet) and telecommunications ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-504,-1395,-6133,-8727,-4597,-1133,-1151,60,-133,-68,-67,-35924,-17258,-32
+ "47000","Tennessee",5,SAGDP5N,49,"518-519","   Data processing, hosting, and other information services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-44897,-10500,-18
+ "47000","Tennessee",5,SAGDP5N,50,"52,53","  Finance, insurance, real estate, rental, and leasing ","Thousands of dollars",-187838,-207250,-214781,-206825,-200706,-210503,-241808,-255067,-326937,-283710,-264402,-264497,-287454,-282901,-293164,-302862,-308751,-296877,-299945,-334685,-360847,-349655,-365808,-1182519,-745409,-448548
+ "47000","Tennessee",5,SAGDP5N,51,"52","   Finance and insurance ","Thousands of dollars",-1044,-1171,-1618,-1578,-2083,-2316,-979,-590,-813,-486,-686,-1067,-2178,-4911,-6877,-9466,-7987,-11018,-6575,-7809,-7476,-6848,-5796,-331084,-84783,-9862
+ "47000","Tennessee",5,SAGDP5N,52,"521-522","    Monetary Authorities- central bank, credit intermediation, and related services ","Thousands of dollars",-1044,-1171,-1618,-1578,-2083,-2316,-979,-590,-813,-486,-686,-1067,-2178,-4911,-6877,-9466,-7987,-11018,-6575,-7809,-7476,-6848,-5796,-79620,-32816,-9691
+ "47000","Tennessee",5,SAGDP5N,53,"523","    Securities, commodity contracts, and other financial investments and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-58645,-11447,-43
+ "47000","Tennessee",5,SAGDP5N,54,"524","    Insurance carriers and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-185802,-38850,-128
+ "47000","Tennessee",5,SAGDP5N,55,"525","    Funds, trusts, and other financial vehicles ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7018,-1671,0
+ "47000","Tennessee",5,SAGDP5N,56,"53","   Real estate and rental and leasing ","Thousands of dollars",-186794,-206080,-213163,-205247,-198623,-208188,-240829,-254477,-326124,-283224,-263716,-263430,-285275,-277990,-286287,-293396,-300764,-285859,-293370,-326876,-353371,-342807,-360011,-851435,-660625,-438685
+ "47000","Tennessee",5,SAGDP5N,57,"531","    Real estate ","Thousands of dollars",-186794,-206080,-213163,-205247,-198623,-208188,-240829,-254477,-326124,-283224,-263716,-263430,-285275,-277990,-286287,-293396,-300764,-285859,-293370,-326876,-353371,-342807,-360011,-780336,-629061,-438547
+ "47000","Tennessee",5,SAGDP5N,58,"532-533","    Rental and leasing services and lessors of nonfinancial intangible assets ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-71099,-31565,-138
+ "47000","Tennessee",5,SAGDP5N,59,"54,55,56","  Professional and business services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1985176,-829499,-1286
+ "47000","Tennessee",5,SAGDP5N,60,"54","   Professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1328050,-536475,-750
+ "47000","Tennessee",5,SAGDP5N,61,"5411","    Legal services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-255603,-109825,-103
+ "47000","Tennessee",5,SAGDP5N,62,"5415","    Computer systems design and related services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-163725,-56979,-71
+ "47000","Tennessee",5,SAGDP5N,63,"5412-5414,5416-5419","    Miscellaneous professional, scientific, and technical services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-908723,-369672,-576
+ "47000","Tennessee",5,SAGDP5N,64,"55","   Management of companies and enterprises ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-23519,-21320,-240
+ "47000","Tennessee",5,SAGDP5N,65,"56","   Administrative and support and waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-633607,-271704,-296
+ "47000","Tennessee",5,SAGDP5N,66,"561","    Administrative and support services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-580970,-256523,-274
+ "47000","Tennessee",5,SAGDP5N,67,"562","    Waste management and remediation services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-52637,-15181,-22
+ "47000","Tennessee",5,SAGDP5N,68,"61,62","  Educational services, health care, and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-13211,-107634,-63227,-75237,-66867,-40863,-23033,-8143,-259,-252,-3328801,-1392030,-335889
+ "47000","Tennessee",5,SAGDP5N,69,"61","   Educational services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-70883,-84319,-204
+ "47000","Tennessee",5,SAGDP5N,70,"62","   Health care and social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-13211,-107634,-63227,-75237,-66867,-40863,-23033,-8143,-259,-252,-3257918,-1307711,-335685
+ "47000","Tennessee",5,SAGDP5N,71,"621","    Ambulatory health care services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1652875,-812350,-151031
+ "47000","Tennessee",5,SAGDP5N,72,"622","    Hospitals ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,-13211,-107634,-63227,-75237,-66867,-40863,-23033,-8143,-259,-252,-1347513,-284261,-70865
+ "47000","Tennessee",5,SAGDP5N,73,"623","    Nursing and residential care facilities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-168399,-61562,-9969
+ "47000","Tennessee",5,SAGDP5N,74,"624","    Social assistance ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-89131,-149537,-103819
+ "47000","Tennessee",5,SAGDP5N,75,"71,72","  Arts, entertainment, recreation, accommodation, and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1366446,-2240534,-111930
+ "47000","Tennessee",5,SAGDP5N,76,"71","   Arts, entertainment, and recreation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-191095,-460778,-110490
+ "47000","Tennessee",5,SAGDP5N,77,"711-712","    Performing arts, spectator sports, museums, and related activities ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-90117,-393251,-110394
+ "47000","Tennessee",5,SAGDP5N,78,"713","    Amusement, gambling, and recreation industries ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-100979,-67527,-97
+ "47000","Tennessee",5,SAGDP5N,79,"72","   Accommodation and food services ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1175351,-1779756,-1440
+ "47000","Tennessee",5,SAGDP5N,80,"721","    Accommodation ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-177064,-253917,-321
+ "47000","Tennessee",5,SAGDP5N,81,"722","    Food services and drinking places ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-998287,-1525839,-1119
+ "47000","Tennessee",5,SAGDP5N,82,"81","  Other services (except government and government enterprises) ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-575227,-491013,-1549
+ "47000","Tennessee",5,SAGDP5N,83,"92"," Government and government enterprises ","Thousands of dollars",-127272,-99350,-102559,-109165,-118701,-141039,-147027,-152810,-163629,-150692,-178169,-195112,-254614,-260922,-291469,-241358,-263199,-263193,-250578,-257656,-255229,-257403,-266316,-445130,-544474,-654096
+ "47000","Tennessee",5,SAGDP5N,84,"...","  Federal civilian ","Thousands of dollars",-8304,-9373,-13267,-18701,-20265,-19636,-19535,-20638,-21938,-19775,-24469,-40297,-49127,-37147,-52844,-52254,-76212,-80486,-59668,-64569,-72571,-61316,-64244,-66713,-90425,-103279
+ "47000","Tennessee",5,SAGDP5N,85,"...","  Military ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "47000","Tennessee",5,SAGDP5N,86,"...","  State and local ","Thousands of dollars",-118969,-89977,-89292,-90464,-98436,-121403,-127492,-132172,-141691,-130917,-153700,-154815,-205487,-223775,-238625,-189104,-186987,-182707,-190910,-193088,-182658,-196087,-202072,-378417,-454049,-550817
+ "47000","Tennessee",5,SAGDP5N,87,"11,21","Natural resources and mining ","Thousands of dollars",-64629,-113031,-196196,-258551,-283065,-173680,-164211,-136006,-436708,-278740,-273673,-189331,-222466,-130103,-118770,-145148,-119795,-100625,-54295,-98735,-131570,-126534,-308257,-650827,-333167,-96250
+ "47000","Tennessee",5,SAGDP5N,88,"42,44-45","Trade ","Thousands of dollars",0,0,0,0,0,0,0,0,0,0,0,0,-61452,-6817,-67,0,0,0,0,0,0,0,0,-1687179,-725403,-2260
+ "47000","Tennessee",5,SAGDP5N,89,"22,48-49","Transportation and utilities ","Thousands of dollars",-2373,-1401,-1302,-1662,-109900,-11780,-60024,-19358,-13339,-18905,-12300,-10870,-16144,-12316,-13783,-23705,-11939,-9247,-8893,-8570,-6375,-6087,-5337,-750817,-517311,-15086
+ "47000","Tennessee",5,SAGDP5N,90,"31-33,51","Manufacturing and information ","Thousands of dollars",0,0,0,0,0,0,0,0,0,-350,-150,-6431,-20218,-49810,-73624,-71099,-32273,-23311,-22483,-19234,-19126,-16087,-16840,-1599011,-890819,-38236
+ "47000","Tennessee",5,SAGDP5N,91,"...","Private goods-producing industries 2/","Thousands of dollars",-64629,-113031,-196196,-258551,-283065,-173680,-164211,-136006,-436708,-279090,-273824,-195763,-242180,-178518,-186261,-207520,-147471,-122803,-75627,-118029,-150563,-142553,-325030,-3802700,-1933633,-120356
+ "47000","Tennessee",5,SAGDP5N,92,"...","Private services-providing industries 3/","Thousands of dollars",-190211,-208651,-216083,-208487,-310606,-222283,-301832,-274424,-340277,-302615,-276702,-275366,-365554,-316640,-420781,-398521,-400524,-374123,-350852,-366228,-375499,-356069,-371464,-11065206,-7065949,-931970
+"Note: See the included footnote file."
+"SAGDP5N: Subsidies 1."
+"Last updated: May 23, 2024-- revised statistics for 1997-2016."
+"U.S. Bureau of Economic Analysis"
